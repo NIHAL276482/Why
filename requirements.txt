@@ -1,0 +1,12 @@
+numpy==1.26.0
+sympy==1.12
+matplotlib==3.7.2
+Pillow==10.0.0
+rich==13.6.0
+pygments==2.16.1
+torch==2.0.1
+transformers==4.33.1
+qrcode==7.4.2
+pygame==2.5.0
+pyfiglet==0.8.post1
+python-telegram-bot==20.7
